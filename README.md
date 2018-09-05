@@ -1,2 +1,2 @@
-# TeddyApp-Android
-An android app to interface with Teddy
+# TeddyApp-RPi
+A GUI app to interface with Teddy
