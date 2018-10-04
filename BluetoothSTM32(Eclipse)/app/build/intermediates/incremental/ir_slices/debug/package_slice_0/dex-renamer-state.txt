@@ -1,0 +1,4 @@
+#Fri Sep 21 08:48:35 EDT 2018
+base.0=/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/transforms/dexMerger/debug/38
+path.0=classes.dex
+renamed.0=classes.dex

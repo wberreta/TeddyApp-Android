@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/menu_activity_main.xml.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_sound2.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/sound2.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_sound1.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/sound1.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_wave.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/wave.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_eyes.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/eyes.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_sound3.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/sound3.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/xml_pref.xml.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/xml/pref.xml"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_sound4.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/sound4.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_dance.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/dance.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_kick.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/kick.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_connect.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/connect.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_background.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-xhdpi_walk.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-xhdpi/walk.png"
+    },
+    {
+        "merged": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/res/merged/debug/drawable-hdpi_cxemnet_logo.png.flat",
+        "source": "/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/res/drawable-hdpi/cxemnet_logo.png"
+    }
+]

@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">BluetoothSTM32</string>
+    <string name="title_activity_main">BluetoothSTM32</string>
+    <string name="btn_FWD">Forward</string>
+    <string name="btn_BCK">Backward</string>
+    <string name="btn_LFT">Left</string>
+    <string name="btn_RT">Right</string>
+    <string name="btn_STOP">Stop</string>
+    <string name="btn_HOVER">Hover</string>
+    <string name="btn_ThPlus">Throttle +</string>
+    <string name="btn_ThMinus">Throttle -</string>
+    <string name="btn_START">Start</string>
+
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="default_MAC">20:15:09:01:91:57</string>
+
+</resources>

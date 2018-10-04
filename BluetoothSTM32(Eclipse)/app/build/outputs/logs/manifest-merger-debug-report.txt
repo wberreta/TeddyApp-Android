@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/praveenrajendran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/248a97b8420fae410bd8c1ff0747dfaa/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/praveenrajendran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/248a97b8420fae410bd8c1ff0747dfaa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/praveenrajendran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/248a97b8420fae410bd8c1ff0747dfaa/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:11:2-65
+	android:name
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:11:19-62
+application
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/praveenrajendran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/248a97b8420fae410bd8c1ff0747dfaa/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/praveenrajendran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/248a97b8420fae410bd8c1ff0747dfaa/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.bluetoothstm32.MainActivity
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.bluetoothstm32.SetPreferenceActivity
+ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/src/main/AndroidManifest.xml:27:13-50

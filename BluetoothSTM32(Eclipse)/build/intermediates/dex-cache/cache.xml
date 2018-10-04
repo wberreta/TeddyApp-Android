@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/praveenrajendran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_b9997814224198bcda39c5e36f10b15233b56cf9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4bbc7d884675232ad55a6012889799fb9591c0c8">
+        <dex dex="/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_71aa7e992efd5892805b7d39a01a5a580bbb1c69/classes.dex" />
+    </item>
+    <item
+        jar="/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6bf8e88f81e31106acaae1583f07a007f26dc1d8">
+        <dex dex="/Users/praveenrajendran/AndroidStudioProjects/BluetoothSTM32(Eclipse)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34ad251a2e0df0fe49aee853ab779991586701dc/classes.dex" />
+    </item>
+
+</items>
